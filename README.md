@@ -23,3 +23,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamditouballi&" alt="hamditouballi" /></p>
 
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamditouballi&show_icons=true&locale=en" alt="hamditouballi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamditouballi&" alt="hamditouballi" /></p>
+
